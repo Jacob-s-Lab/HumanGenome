@@ -19,3 +19,10 @@ Here, I collected different versions of human genome
 
 
 
+Colons can be used to align columns.
+
+| Tables        | Source           | Name  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
